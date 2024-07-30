@@ -4,7 +4,7 @@ import matplotlib.pyplot as plt
 
 def Predictor():
     
-    # Load data
+    # Load data.
     X = [1,2,3,4,5]
     Y = [3,4,2,4,5]
     
